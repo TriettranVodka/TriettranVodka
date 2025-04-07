@@ -10,7 +10,7 @@ Ngoài việc code, tôi còn thích khám phá những công nghệ mới, đó
 
 ## Kỉ Năng ẩn
 
-thín vd : nhan sắc em làm anh bị ốm vì anh chưa có thuốc "Kháng xinh"
+thín vd : nhan sắc em làm anh bị ốm vì anh chưa có thuốc "Kháng xinh"--
           hôm nay anh bị điểm kém môn Anh Cô bảo chữ love viết nhầm tên em
           
 
