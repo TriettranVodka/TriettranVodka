@@ -6,7 +6,13 @@ Tôi là một **Nhà phát triển Web Full-stack** đam mê xây dựng các �
 
 ## Về tôi
 
-Ngoài việc code, tôi còn thích khám phá những công nghệ mới, đóng góp vào các dự án mã nguồn mở và chia sẻ kiến thức với cộng đồng. Tôi tin rằng việc học hỏi liên tục là chìa khóa để phát triển trong lĩnh vực này.
+Ngoài việc code, tôi còn thích khám phá những công nghệ mới, đóng góp vào các dự án mã nguồn mở và chia sẻ kiến thức với cộng đồng. Tôi tin rằng việc học hỏi liên tục là chìa khóa để phát triển trong lĩnh vực này
+
+## Kỉ Năng ẩn
+
+thín vd : nhan sắc em làm anh bị ốm vì anh chưa có thuốc "Kháng xinh"
+          hôm nay anh bị điểm kém môn Anh Cô bảo chữ love viết nhầm tên em
+          
 
 ## Kỹ năng
 
